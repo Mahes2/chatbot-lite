@@ -30,7 +30,7 @@ pip install git+https://github.com/Mahes2/py-chatbot.git
 If you encounter SSL certificate issues while making requests, you may need to set up your environment to use proper certificates. You can do this by running the following commands:
 
 ```bash
-CERT_PATH=$(python3 -m certifi)
+CERT_PATH=$(python -m certifi)
 export SSL_CERT_FILE=${CERT_PATH}
 export REQUESTS_CA_BUNDLE=${CERT_PATH}
 ```
