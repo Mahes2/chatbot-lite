@@ -22,7 +22,7 @@ Ensure that you have `pip` installed on your system. Follow the [pip installatio
 To install the `chatbot-lite` package directly from the GitHub repository, use the following command:
 
 ```bash
-pip install git+https://github.com/Mahes2/chatbot-lite.git
+pip install chatbot-lite
 ```
 
 ## Set Up SSL Certificates (For MacOS/Linux)
