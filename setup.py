@@ -1,14 +1,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='py-chatbot',
-    version='0.1.0',
+    name='chatbot-lite',
+    use_scm_version=True,
+    setup_requires=['setuptools>=42', 'setuptools_scm'],
     description='A simple chatbot',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Mahes',
     author_email='mahessawira@gmail.com',
-    url='https://github.com/Mahes2/py-chatbot',
+    url='https://github.com/Mahes2/chatbot-lite',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',

@@ -1,4 +1,4 @@
-# py-chatbot
+# chatbot-lite
 
 A Python-based chatbot designed to provide conversational responses.
 
@@ -19,10 +19,10 @@ Make sure you have Python 3.12 installed on your system. You can download it fro
 Ensure that you have `pip` installed on your system. Follow the [pip installation guide](https://pip.pypa.io/en/stable/installation/) if it's not already installed.
 
 ## Installation
-To install the `py-chatbot` package directly from the GitHub repository, use the following command:
+To install the `chatbot-lite` package directly from the GitHub repository, use the following command:
 
 ```bash
-pip install git+https://github.com/Mahes2/py-chatbot.git
+pip install git+https://github.com/Mahes2/chatbot-lite.git
 ```
 
 ## Set Up SSL Certificates (For MacOS/Linux)
