@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pt-chatbot',
+    name='py-chatbot',
     version='0.1.0',
     description='A simple chatbot',
     long_description=open('README.md').read(),
