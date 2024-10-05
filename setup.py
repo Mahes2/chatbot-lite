@@ -17,7 +17,7 @@ setup(
     ],
     python_requires='>=3.12',
     install_requires=[
-        nltk>=3.5
-        certifi>=2020.6.20
+        'nltk>=3.5',
+        'certifi>=2020.6.20',
     ],
 )
