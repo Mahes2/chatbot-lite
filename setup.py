@@ -18,6 +18,6 @@ setup(
     python_requires='>=3.12',
     install_requires=[
         'nltk>=3.9.1',
-        'certifi>=2024.9.11',
+        'certifi>=2024.8.30',
     ],
 )
